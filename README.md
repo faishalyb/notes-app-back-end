@@ -5,6 +5,7 @@ create RESTful API from this website [Dicoding-notes](http://notesapp-v1.dicodin
 - initiate npm with npm init --y
 - install nodemon with npm install nodemon --save-dev
 - install ESLint with npm install eslint --save-dev
+- install hapi framework with npm install @hapi/hapi
 - ( using nodemon to reduce the restart service in web )
 - make sure in package.json the ["scripts" > "start" = already run with nodemon (your_service.js)]
 ### - Configure ESLint
